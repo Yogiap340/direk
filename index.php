@@ -12,6 +12,11 @@
 		<li>bisa</li>
 		<li>pasti</li>
 	</ul>
+	<ul>
+		<li>Ghina</li>
+		<li>Arfi</li>
+		<li>Arfa</li>
+	</ul>
 
 </body>
 </html>
